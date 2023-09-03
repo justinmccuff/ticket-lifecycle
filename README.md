@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk  ticketing system osTicket. The ticket lifecycle encompasses a series of distinct stages that a customer service ticket traverses, commencing with its inception as 'New,' progressing through 'Open,' 'Answered,' 'Resolved,' 'Postponed,' and potentially culminating in designations such as 'Marked as Spam,' 'Deleted,' or 'Purged.<br />
 
 
 <h2>Environments and Technologies Used</h2>
